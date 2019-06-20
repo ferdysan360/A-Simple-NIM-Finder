@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/A-Simple-NIM-Finder/static/css/main.2763d84f.chunk.css",
+    "main.js": "/A-Simple-NIM-Finder/static/js/main.34f26401.chunk.js",
+    "main.js.map": "/A-Simple-NIM-Finder/static/js/main.34f26401.chunk.js.map",
+    "runtime~main.js": "/A-Simple-NIM-Finder/static/js/runtime~main.69aa67d5.js",
+    "runtime~main.js.map": "/A-Simple-NIM-Finder/static/js/runtime~main.69aa67d5.js.map",
+    "static/js/2.ba7274ba.chunk.js": "/A-Simple-NIM-Finder/static/js/2.ba7274ba.chunk.js",
+    "static/js/2.ba7274ba.chunk.js.map": "/A-Simple-NIM-Finder/static/js/2.ba7274ba.chunk.js.map",
+    "index.html": "/A-Simple-NIM-Finder/index.html",
+    "precache-manifest.a2b7f2374760791e78db640e17af6d11.js": "/A-Simple-NIM-Finder/precache-manifest.a2b7f2374760791e78db640e17af6d11.js",
+    "service-worker.js": "/A-Simple-NIM-Finder/service-worker.js",
+    "static/css/main.2763d84f.chunk.css.map": "/A-Simple-NIM-Finder/static/css/main.2763d84f.chunk.css.map"
+  }
+}
